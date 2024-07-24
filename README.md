@@ -1,0 +1,2 @@
+# pratical1
+devops
